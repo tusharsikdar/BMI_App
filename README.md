@@ -1,11 +1,8 @@
 # bmiapp2
 
-A new Flutter project.
+![BMI](https://user-images.githubusercontent.com/55484097/182678257-79eb0c1c-1958-4390-b71d-8adb1afd52ea.png)
 
-## Getting Started<br>
-<img src = "https://github.com/tusharsikdar/BMI_App/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202022-07-28%20at%2010.59.22.png" alt="output"/><br>
-<img src = "https://github.com/tusharsikdar/BMI_App/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202022-07-28%20at%2010.59.49.png" alt="output"/><br>
-<img src = "https://github.com/tusharsikdar/BMI_App/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202022-07-28%20at%2011.00.03.png" alt="output"/>
+A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
