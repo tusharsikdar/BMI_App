@@ -1,4 +1,4 @@
-# bmiapp2
+# BMI App
 
 ![BMI](https://user-images.githubusercontent.com/55484097/182678257-79eb0c1c-1958-4390-b71d-8adb1afd52ea.png)
 
